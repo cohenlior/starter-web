@@ -9,9 +9,11 @@ of the Git repository and various commands
 using a web project.
 
 ## Purpose
-
+As stated -
 Sample website with plenty of files for demos
 
 ## How To Contribute
 
 ## Deployment
+
+This is simple
