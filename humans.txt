@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    Lior Cohen cohen.lior.33@gmail.com
 # THANKS
 
     <name>
